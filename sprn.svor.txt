@@ -1,0 +1,7 @@
+JavaScript er forritunartungumál fyrir vefinn, sem er notað til að fá meira líf á síðuna þína
+
+JavaScript variables eru skúffur sem innihalda gögn. Variables geta verið alskonar data types sem eru bara tegundir af gögnum t.d strings,objects og integers
+
+Conditionals eru skipanir sem gera einhvað annað miða við hvaða aðstæður sem þær eru í t.d ef það er slegið inn 12 þá birtast epli en ef það er slegið inn 13 þá birtast þvottavélar
+
+Loops eru skipanir sem keyra aftur og aftur þar til þær ná einhverju markmiði
